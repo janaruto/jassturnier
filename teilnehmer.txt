@@ -1,0 +1,22 @@
+# Teilnehmer – eine Person pro Zeile.
+# Wird nur beim allerersten Start eingelesen (leere Datenbank).
+# Danach verwaltest du die Teilnehmer in der App unter «Admin».
+Kev
+Lea
+Michel
+Kägi
+Janka
+Dario
+Yanik
+Colin
+Linus
+Livio
+Inga
+Bene
+Guddi
+Itzel
+Stjepi
+Stjepi +1
+Christa
+Tobi
+Anselma

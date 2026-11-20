@@ -1,0 +1,10 @@
+# Turnierdaten (Datenbank mit Fotos) und lokale Geheimnisse nicht ins Repo
+data/
+*.db
+*.db-wal
+*.db-shm
+.streamlit/secrets.toml
+.venv/
+__pycache__/
+.claude/
+.DS_Store
